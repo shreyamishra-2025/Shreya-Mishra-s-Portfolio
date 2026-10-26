@@ -1,0 +1,185 @@
+Build a complete, professional, modern, responsive personal portfolio website for **Shreya Mishra**, an aspiring Data Analyst interested in Data Analytics and Business Intelligence.
+
+**IMPORTANT: Use only the real information provided below. Do not invent or assume any personal details, projects, achievements, work experience, certifications, statistics, contact information, or skills. If information is missing, omit it or leave a clearly identifiable placeholder for me to fill in later. Do not publish placeholder text as if it were real information.**
+
+## 1. Personal Information
+
+- Name: Shreya Mishra
+- Current education: BCA, final year
+- College: VT Poddar BCA College
+- Expected graduation: 2027
+- Additional education: ADCA
+- Completed learning: IBM Developing Interpersonal Skills course through Coursera
+- Academic background: PCM (Physics, Chemistry, Mathematics)
+- Career interest: Data Analyst, Data Analytics, and Business Intelligence
+- Target opportunity: Entry-level jobs and internships, especially in Surat, Gujarat, India.
+- Existing portfolio: https://shreyamishra-2025.github.io/Shreya-mishra-portfolio/
+
+Do not claim that I already work as a Data Analyst. Present me honestly as an aspiring Data Analyst and BCA student.
+
+## 2. Website Design
+
+Create a premium-looking, minimal, elegant portfolio inspired by modern professional data analyst portfolios.
+
+Design requirements:
+- Clean layout with plenty of whitespace.
+- Professional typography and a restrained color palette.
+- White or very light background with dark text and a subtle blue accent.
+- Optional dark mode if it can be implemented properly.
+- Smooth scrolling and subtle hover animations.
+- Fully responsive design for mobile, tablet, and desktop.
+- Accessible contrast and readable font sizes.
+- Professional navigation bar and a visually appealing hero section.
+- No excessive gradients, distracting animations, fake statistics, or unnecessary decorative elements.
+- Do not generate a fake personal photograph or an AI-generated identity photo.
+- Use simple, tasteful visual elements related to analytics, charts, and data.
+
+The result should look polished enough to share with recruiters for internships without appearing exaggerated or artificial.
+
+## 3. Hero Section
+
+Display:
+
+**Shreya Mishra**
+
+**Aspiring Data Analyst | Data Analytics & Business Intelligence**
+
+Use this introduction:
+
+"I am a final-year BCA student with a background in PCM and an interest in mathematics, data, and analytical problem-solving. I am developing my skills in Excel, SQL, Python, and Power BI, with the goal of pursuing opportunities in Data Analytics and Business Intelligence."
+
+Include two buttons:
+- Explore My Projects
+- Contact Me
+
+Do not add claims such as expert, experienced analyst, industry professional, or proven track record.
+
+## 4. About Me
+
+Write a concise, professional About Me section using only my actual background.
+
+Mention:
+- I am pursuing my BCA at VT Poddar BCA College and expect to graduate in 2027.
+- I have completed ADCA.
+- I have a PCM academic background and an interest in mathematics.
+- My listed technical skills include Excel, SQL, Python, and Power BI.
+- I am interested in developing my analytical skills and pursuing entry-level Data Analytics and BI opportunities.
+
+Keep the tone confident, natural, and suitable for a student portfolio. Do not invent a personal story, years of experience, career achievements, or professional experience.
+
+## 5. Technical Skills
+
+Create a clean skills section grouped into categories.
+
+**Data Analysis and BI**
+- Microsoft Excel
+- SQL
+- Power BI
+
+**Programming**
+- Python
+
+Only display these skills as skills I have listed. Do not assign proficiency percentages, skill bars, stars, or advanced/expert labels.
+
+Do not add Tableau, R, machine learning, advanced statistics, cloud platforms, or other technologies unless I provide confirmation.
+
+## 6. Projects
+
+Create individual project cards with a title, factual description, relevant technologies where known, and a project link only when an actual URL is provided.
+
+### Project A: HR Analytics — Python
+- I have a Python HR_Analytics Jupyter notebook on GitHub.
+- Present it as a Python-based HR analytics notebook.
+- Do not invent the dataset source, analytical methods, business findings, results, or impact.
+- Use a real GitHub project URL only if available. Otherwise, leave the external link out and make it easy to add later.
+
+### Project B: Sales Data Analysis — Power BI
+- I explored a sales dataset in Power BI.
+- The dataset did not contain a Profit column.
+- Technology had the highest sales in my analysis.
+- Phone and Chair had almost equal high sales.
+- Describe this as exploratory sales analysis or a Power BI dashboard exploration, depending on what is actually completed.
+- Do not invent total revenue, profit, growth rates, customer insights, or other findings.
+- Do not claim that I created SQL queries for this dataset.
+- Do not claim the project is published or publicly accessible unless a real link is supplied.
+
+### Project C: Lost & Found Portal — College Minor Project
+This is a college web development project, NOT a Data Analytics project. Keep it in a separate section called "Other Projects" or clearly label it as a web development project.
+
+Known technologies and context:
+- PHP
+- MongoDB
+- React
+- Bootstrap
+- XAMPP
+- College minor project
+
+The project involves a Lost & Found Portal with student and admin functionality. Describe only functionality that has actually been implemented. Do not invent deployment details, user numbers, impact metrics, or production status.
+
+If project links are missing, do not fabricate them. Make adding links straightforward.
+
+## 7. Education and Learning
+
+Present my education clearly:
+
+**Bachelor of Computer Applications (BCA)**
+- VT Poddar BCA College
+- Final year
+- Expected graduation: 2027
+
+**ADCA**
+- Completed
+
+**IBM Developing Interpersonal Skills — Coursera**
+- Course completed.
+- Do not claim that a certificate was issued or verified unless I provide evidence.
+
+I also registered for the Kaggle "5-Day AI Agents: Intensive Vibe Coding Course With Google," scheduled for June 15–19, 2026. Do not describe this as a completed course or certification unless my completion is confirmed.
+
+Do not invent graduation marks, GPA, course grades, certificates, or other educational qualifications.
+
+## 8. Career Goals
+
+Add a small professional section explaining that I am interested in entry-level Data Analyst and Business Intelligence internships or opportunities where I can continue developing practical analytical skills.
+
+Keep the wording realistic and student-focused. Do not claim previous internships or paid data analyst employment.
+
+## 9. Contact Section
+
+Create a clean contact section inviting recruiters and potential collaborators to connect regarding internships and entry-level opportunities.
+
+Do not invent an email address, phone number, LinkedIn profile, GitHub username, or social media link.
+
+If these details are unavailable, either:
+- Display a simple message inviting visitors to connect, without fake links; or
+- Keep clearly identified contact fields in the source code for me to fill in later.
+
+Do not display dead buttons or fake contact links.
+
+## 10. Technical Requirements
+
+- Build a complete working website, not just a static mockup.
+- Use a suitable, maintainable frontend stack supported by Replit.
+- Prefer React with clean, reusable components if appropriate.
+- Ensure the website starts successfully in Replit.
+- Implement working navigation, project sections, responsive layouts, and contact interactions where real information is available.
+- Use semantic HTML and accessible labels.
+- Optimize loading speed and mobile performance.
+- Include page metadata and an appropriate browser title, such as "Shreya Mishra | Aspiring Data Analyst."
+- Avoid unnecessary dependencies.
+- Keep all content easy to edit.
+- Do not add fake testimonials, client logos, visitor counters, experience timelines, or project performance metrics.
+
+## 11. Final Verification
+
+Before considering the website complete:
+
+1. Verify every displayed personal fact against the information in this prompt.
+2. Remove any invented details, fake links, sample statistics, and unsupported claims.
+3. Ensure the HR Analytics notebook, Power BI sales exploration, and Lost & Found Portal are represented accurately and are not confused with one another.
+4. Check all buttons, navigation links, responsive layouts, and project links.
+5. Confirm the website runs successfully in Replit.
+6. Tell me which information is still missing, such as my actual GitHub project URL, LinkedIn URL, email address, or any additional verified project details.
+7. Provide a brief explanation of how I can edit the portfolio and publish it.
+
+**Final goal:** A polished, honest, recruiter-friendly Data Analyst portfolio that represents my real education, current skills, actual project work, and career goals without adding anything imaginary.

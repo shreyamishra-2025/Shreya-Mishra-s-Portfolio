@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Shreya Mishra Portfolio"
+description = "A responsive, recruiter-friendly portfolio for Shreya Mishra, an aspiring Data Analyst and final-year BCA student, presenting verified education, listed skills, and project work honestly."
+version = "1.0.0"
+id = "artifacts/shreya-portfolio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 23551
+
+[services.development]
+run = "pnpm --filter @workspace/shreya-portfolio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/shreya-portfolio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/shreya-portfolio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "23551"
+BASE_PATH = "/"
